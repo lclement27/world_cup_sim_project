@@ -1,0 +1,16 @@
+1. Brazil
+16. USA
+2. Belgium
+15. Switzerland
+3. Argentina
+14. Uruguay
+4. France
+13. Mexico
+5. England
+12. Croatia
+6. Italy
+11. Germany
+7. Spain
+10. Denmark
+8. Netherlands
+9. Portugal

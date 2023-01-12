@@ -1,0 +1,20 @@
+Here are the instructions for my World Cup Simulator!!
+
+Using it is very simple and only involves a few steps by the user
+
+Step 1: Run Main.java
+	* This will start the application and give control to the Controller
+	* This will also create the view
+	
+Step 2: Upload your file with your desired teams and match-ups
+	* When creating the file, the order matters, so adjacent teams will play each other
+	* The teams should also be in a format of "rank. name" (e.g. "1. Brazil")
+	* Select your file with the finder and then the GUI will be updated with the data!
+	
+Step 3: Press the 'Play Next Round' button
+	* Pressing this will progress the round and display the winners of the games 
+	
+Step 4: Keep pressing until you reach the winner of the World Cup!
+	* The winner is the last team standing
+	
+Congrats on simulating the World Cup!
